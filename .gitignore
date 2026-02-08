@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.qodo/
+
+# Optional: uncomment if you add tooling later
+# node_modules/
